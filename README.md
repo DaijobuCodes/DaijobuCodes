@@ -23,7 +23,7 @@
 
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/yashlearnscode)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/Yashlearnscode/)
-[![TryHackMe](<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4190260" style='border:none;'></iframe>)]
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Monkey2435.png)
 
 # 📲 Socials
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
