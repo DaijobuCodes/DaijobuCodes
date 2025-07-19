@@ -24,7 +24,6 @@
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/yashlearnscode)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/Yashlearnscode/)
 
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Monkey2435.png)](https://tryhackme.com/p/Monkey2435)
 
 
 # 📲 Socials
